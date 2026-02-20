@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Your Name
+title: Fatemeh Ghazavi Khorasgani
 
 # Full name (for SEO)
-first_name: Your
-last_name: Name
+first_name: Fatemeh
+last_name: Ghazavi Khorasgani
 
 # Status emoji (optional - delete if you don't want one)
 status:
@@ -28,31 +28,30 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your.email@uoregon.edu'
+    url: 'fatemeh@uoregon.edu'
     label: E-mail Me
   - icon: brands/github
-    url: https://github.com/yourusername
+    url: https://github.com/fatemehstats
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/yourprofile
+    url: https://www.linkedin.com/in/fatemeh-ghazavi-khorasgani-265050252
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=YOURSCHOLARID
+    url: https://scholar.google.com/citations?user=7pFvKCwAAAAJ
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0000-0000-0000
+    url: https://orcid.org/0000-0001-8956-837X
 
 interests:
-  - Social Psychology
-  - Personality and Individual Differences
-  - Health Psychology
+  - Developmental Psychology
+  - Environmental Psychology
   - Quantitative Methods
 
 education:
   - area: PhD Psychology
     institution: University of Oregon
-    date_start: 2021-09-01
-    date_end: ''
+    date_start: 2025-09-01
+    date_end: 'Present'
     summary: |
       Research on social cognition and health behavior change.
-      Advised by Prof. Advisor Name.
+      Advised by Prof. Kate Celis Mills.
   - area: BA Psychology
     institution: Undergraduate University
     date_start: 2017-09-01
